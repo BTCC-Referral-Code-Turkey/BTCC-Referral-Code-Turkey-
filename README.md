@@ -15,8 +15,9 @@
     <li><strong>İşlem ücretlerinde %50’ye kadar indirim</strong></li>
   </ul>
 
-<p><a href="https://partner.btcc.com/us/c/BTCCBONUS/9303" target="_blank">Kaydolun ve teklifleri buradan alın </a></p>
+ <p><a href="https://partner.btcc.com/us/c/BTCCBONUS/9303" target="_blank">Kaydolun ve teklifleri buradan alın </a></p> 
 <img src="https://images.mirror-media.xyz/publication-images/Ih1K7BTSZ3Z5VHtGmbLg1.png?height=960&amp;width=1920" decoding="async" data-nimg="fill" class="css-xah9so" style="position:absolute;top:0;left:0;bottom:0;right:0;box-sizing:border-box;padding:0;border:none;margin:auto;display:block;width:0;height:0;min-width:100%;max-width:100%;min-height:100%;max-height:100%">
+
   <h2>BTCCBONUS Kodu ile Hangi Bonuslar Sizi Bekliyor?</h2>
   <table>
     <thead>
